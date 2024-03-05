@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: azure;
+    
+
+
+}
+#color-box{
+    background-color: black;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    display: flex;
+   
+
+}
+#change-color-btn{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(175, 107, 39);
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100px;
+    border-width: 15px;
+    border: 15px;
+    border-color: beige;
+    border-radius: 50%;
+
+}
+#change-color-btn:hover{
+    color: darkred;
+    background-color: azure;
+}
